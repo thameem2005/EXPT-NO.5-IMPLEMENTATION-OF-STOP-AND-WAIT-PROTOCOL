@@ -1,3 +1,4 @@
+# DATE : 13/02/2026
 # EX.NO: 5 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
 # AIM
@@ -71,11 +72,7 @@ $ns run
 # OUTPUT
 
 
-
-
-
-
-
+<img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/f660a837-27ea-407a-97d1-834fbecc6a46" />
 
 
 # RESULT
